@@ -6,9 +6,9 @@
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"></code>
 
 <div align="center">
-<h3><img height="30" src="https://github.com/AndersonAlvesCoelho/christmas-snowman/public/20210128_073806.gif"> Christmas Snowman </h3>
+<h3><img height="30" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/coffee.png"> Christmas Snowman </h3>
 
 Playing with css, I created this project to train my skills with css.
 
-<img  src="https://github.com/AndersonAlvesCoelho/Happy/blob/main/NLW-03/front-end/src/images/landing.svg">
+<img  src="https://raw.githubusercontent.com/AndersonAlvesCoelho/christmas-snowman/main/public/20210128_073806.gif"> 
 </div>
